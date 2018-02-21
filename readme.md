@@ -1,6 +1,6 @@
-Name : Sannisth Soni
-Student ID : 
-Email Address : sannisth.soni@sjsu.edu
+<b>Name : Sannisth Soni</b><br>
+Student ID : <br>
+Email Address : sannisth.soni@sjsu.edu<br>
 
 In this lab, you build a HelloWorld Java console application with Spring’s application context. 
 
